@@ -32,10 +32,12 @@ a:link {
     margin: 8px auto;
 }
 
-.recipe-image {
+.recipe-image img{
     width: 640px;
     height: auto;
     margin: 8px auto;
+    padding: 8px;
+    display: block;
 }
 
 .recipe-description {
